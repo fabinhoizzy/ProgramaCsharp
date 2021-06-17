@@ -1,0 +1,13 @@
+C:\Users\fabin\OneDrive\Documentos\ProjetosC\App4\App4\bin\Debug\netcoreapp3.1\App4.exe
+C:\Users\fabin\OneDrive\Documentos\ProjetosC\App4\App4\bin\Debug\netcoreapp3.1\App4.deps.json
+C:\Users\fabin\OneDrive\Documentos\ProjetosC\App4\App4\bin\Debug\netcoreapp3.1\App4.runtimeconfig.json
+C:\Users\fabin\OneDrive\Documentos\ProjetosC\App4\App4\bin\Debug\netcoreapp3.1\App4.runtimeconfig.dev.json
+C:\Users\fabin\OneDrive\Documentos\ProjetosC\App4\App4\bin\Debug\netcoreapp3.1\App4.dll
+C:\Users\fabin\OneDrive\Documentos\ProjetosC\App4\App4\bin\Debug\netcoreapp3.1\App4.pdb
+C:\Users\fabin\OneDrive\Documentos\ProjetosC\App4\App4\obj\Debug\netcoreapp3.1\App4.csproj.AssemblyReference.cache
+C:\Users\fabin\OneDrive\Documentos\ProjetosC\App4\App4\obj\Debug\netcoreapp3.1\App4.AssemblyInfoInputs.cache
+C:\Users\fabin\OneDrive\Documentos\ProjetosC\App4\App4\obj\Debug\netcoreapp3.1\App4.AssemblyInfo.cs
+C:\Users\fabin\OneDrive\Documentos\ProjetosC\App4\App4\obj\Debug\netcoreapp3.1\App4.csproj.CoreCompileInputs.cache
+C:\Users\fabin\OneDrive\Documentos\ProjetosC\App4\App4\obj\Debug\netcoreapp3.1\App4.dll
+C:\Users\fabin\OneDrive\Documentos\ProjetosC\App4\App4\obj\Debug\netcoreapp3.1\App4.pdb
+C:\Users\fabin\OneDrive\Documentos\ProjetosC\App4\App4\obj\Debug\netcoreapp3.1\App4.genruntimeconfig.cache
