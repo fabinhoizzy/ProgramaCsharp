@@ -1,4 +1,5 @@
 ﻿using System;
+using App4.Entities.Exceptions;
 
 namespace App4.Entities
 {
@@ -14,6 +15,11 @@ namespace App4.Entities
 
         public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut)
         {
+            if (checkOut <= checkIn)
+            {
+                throw new DomainException("Error in reservation: Check-out date must be after check-in date");
+            }
+
             RoomNumber = roomNumber;
             CheckIn = checkIn;
             CheckOut = checkOut;
@@ -27,6 +33,15 @@ namespace App4.Entities
 
         public void UpdateDates(DateTime checkIn, DateTime checkOut)
         {
+            DateTime now = DateTime.Now;
+            if (checkIn < now || checkOut < now)
+            {
+                throw new DomainException ("Reservation dates for update must be future dates");
+            }
+            if (checkOut <= checkIn)
+            {
+                throw new DomainException ("Error in reservation: Check-out date must be after check-in date");
+            }
             CheckIn = checkIn;
             CheckOut = checkOut;
         }
